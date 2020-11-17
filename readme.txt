@@ -5,3 +5,4 @@ Git tracks changes
 A change but not add
 create new branch is quick
 create s new branch is quick and simple
+分支管理策略
